@@ -1,1 +1,57 @@
+body{
+    margin:0;
+    background:#f6f3ed;
+    font-family:tahoma;
+}
 
+.container{
+
+    max-width:500px;
+
+    margin:40px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:18px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+
+h1{
+
+    text-align:center;
+
+}
+
+p{
+
+    text-align:center;
+
+    line-height:2;
+
+}
+
+a{
+
+display:block;
+
+text-decoration:none;
+
+background:#7b5d3d;
+
+color:white;
+
+padding:16px;
+
+margin-top:15px;
+
+border-radius:12px;
+
+text-align:center;
+
+font-size:18px;
+
+}
